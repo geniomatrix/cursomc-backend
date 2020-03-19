@@ -84,4 +84,3 @@ public class PedidoService {
 		return repo.findByCliente(cliente, pageRequest);
 	}
 }
-
